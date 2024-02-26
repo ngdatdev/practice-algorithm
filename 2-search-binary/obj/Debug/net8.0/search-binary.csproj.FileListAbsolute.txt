@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\practice-algorithm\search-binary\bin\Debug\net8.0\search-binary.exe
+C:\Users\admin\Documents\practice-algorithm\search-binary\bin\Debug\net8.0\search-binary.deps.json
+C:\Users\admin\Documents\practice-algorithm\search-binary\bin\Debug\net8.0\search-binary.runtimeconfig.json
+C:\Users\admin\Documents\practice-algorithm\search-binary\bin\Debug\net8.0\search-binary.dll
+C:\Users\admin\Documents\practice-algorithm\search-binary\bin\Debug\net8.0\search-binary.pdb
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.AssemblyInfo.cs
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.sourcelink.json
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.dll
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\refint\search-binary.dll
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.pdb
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\search-binary.genruntimeconfig.cache
+C:\Users\admin\Documents\practice-algorithm\search-binary\obj\Debug\net8.0\ref\search-binary.dll
