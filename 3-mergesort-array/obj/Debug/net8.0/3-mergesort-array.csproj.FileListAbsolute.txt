@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.AssemblyInfo.cs
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.sourcelink.json
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\bin\Debug\net8.0\3-mergesort-array.exe
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\bin\Debug\net8.0\3-mergesort-array.deps.json
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\bin\Debug\net8.0\3-mergesort-array.runtimeconfig.json
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\bin\Debug\net8.0\3-mergesort-array.dll
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\bin\Debug\net8.0\3-mergesort-array.pdb
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.dll
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\refint\3-mergesort-array.dll
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.pdb
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\3-mergesort-array.genruntimeconfig.cache
+C:\Users\admin\Documents\practice-algorithm\3-mergesort-array\obj\Debug\net8.0\ref\3-mergesort-array.dll
