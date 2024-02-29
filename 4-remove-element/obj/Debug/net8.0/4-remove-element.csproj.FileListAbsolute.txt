@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.AssemblyInfo.cs
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.sourcelink.json
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\bin\Debug\net8.0\4-remove-element.exe
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\bin\Debug\net8.0\4-remove-element.deps.json
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\bin\Debug\net8.0\4-remove-element.runtimeconfig.json
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\bin\Debug\net8.0\4-remove-element.dll
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\bin\Debug\net8.0\4-remove-element.pdb
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.dll
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\refint\4-remove-element.dll
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.pdb
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\4-remove-element.genruntimeconfig.cache
+C:\Users\admin\Documents\practice-algorithm\4-remove-element\obj\Debug\net8.0\ref\4-remove-element.dll
