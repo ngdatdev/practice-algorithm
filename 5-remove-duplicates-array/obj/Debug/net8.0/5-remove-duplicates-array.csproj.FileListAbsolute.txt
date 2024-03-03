@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\bin\Debug\net8.0\5-remove-duplicates-array.exe
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\bin\Debug\net8.0\5-remove-duplicates-array.deps.json
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\bin\Debug\net8.0\5-remove-duplicates-array.runtimeconfig.json
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\bin\Debug\net8.0\5-remove-duplicates-array.dll
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\bin\Debug\net8.0\5-remove-duplicates-array.pdb
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.AssemblyInfo.cs
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.sourcelink.json
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.dll
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\refint\5-remove-duplicates-array.dll
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.pdb
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\5-remove-duplicates-array.genruntimeconfig.cache
+C:\Users\admin\Documents\practice-algorithm\5-remove-duplicates-array\obj\Debug\net8.0\ref\5-remove-duplicates-array.dll
