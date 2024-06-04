@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\bin\Debug\net8.0\13-valid-palindrome.exe
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\bin\Debug\net8.0\13-valid-palindrome.deps.json
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\bin\Debug\net8.0\13-valid-palindrome.runtimeconfig.json
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\bin\Debug\net8.0\13-valid-palindrome.dll
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\bin\Debug\net8.0\13-valid-palindrome.pdb
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.AssemblyInfo.cs
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.sourcelink.json
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.dll
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\refint\13-valid-palindrome.dll
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.pdb
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\13-valid-palindrome.genruntimeconfig.cache
+C:\Users\admin\Documents\practice-algorithm\13-valid-palindrome\obj\Debug\net8.0\ref\13-valid-palindrome.dll

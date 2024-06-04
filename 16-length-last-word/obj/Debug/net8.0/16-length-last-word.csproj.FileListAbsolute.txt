@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\bin\Debug\net8.0\16-length-last-word.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\bin\Debug\net8.0\16-length-last-word.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\bin\Debug\net8.0\16-length-last-word.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\bin\Debug\net8.0\16-length-last-word.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\bin\Debug\net8.0\16-length-last-word.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\refint\16-length-last-word.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\16-length-last-word.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\16-length-last-word\obj\Debug\net8.0\ref\16-length-last-word.dll

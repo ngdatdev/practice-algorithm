@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\bin\Debug\net8.0\17-index-occurrence.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\bin\Debug\net8.0\17-index-occurrence.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\bin\Debug\net8.0\17-index-occurrence.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\bin\Debug\net8.0\17-index-occurrence.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\bin\Debug\net8.0\17-index-occurrence.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\refint\17-index-occurrence.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\17-index-occurrence.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\17-index-occurrence\obj\Debug\net8.0\ref\17-index-occurrence.dll
