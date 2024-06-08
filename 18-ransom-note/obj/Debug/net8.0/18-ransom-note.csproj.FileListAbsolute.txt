@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\bin\Debug\net8.0\18-ransom-note.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\bin\Debug\net8.0\18-ransom-note.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\bin\Debug\net8.0\18-ransom-note.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\bin\Debug\net8.0\18-ransom-note.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\bin\Debug\net8.0\18-ransom-note.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\refint\18-ransom-note.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\18-ransom-note.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\18-ransom-note\obj\Debug\net8.0\ref\18-ransom-note.dll
