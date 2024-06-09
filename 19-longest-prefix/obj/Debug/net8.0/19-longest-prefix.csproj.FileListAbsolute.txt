@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\bin\Debug\net8.0\19-longest-prefix.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\bin\Debug\net8.0\19-longest-prefix.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\bin\Debug\net8.0\19-longest-prefix.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\bin\Debug\net8.0\19-longest-prefix.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\bin\Debug\net8.0\19-longest-prefix.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\refint\19-longest-prefix.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\19-longest-prefix.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\19-longest-prefix\obj\Debug\net8.0\ref\19-longest-prefix.dll
