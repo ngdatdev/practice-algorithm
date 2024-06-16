@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\bin\Debug\net8.0\24-valid-anagram.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\bin\Debug\net8.0\24-valid-anagram.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\bin\Debug\net8.0\24-valid-anagram.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\bin\Debug\net8.0\24-valid-anagram.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\bin\Debug\net8.0\24-valid-anagram.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\refint\24-valid-anagram.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\24-valid-anagram.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\24-valid-anagram\obj\Debug\net8.0\ref\24-valid-anagram.dll
