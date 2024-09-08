@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\bin\Debug\net8.0\26-contains-duplicate-II.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\bin\Debug\net8.0\26-contains-duplicate-II.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\bin\Debug\net8.0\26-contains-duplicate-II.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\bin\Debug\net8.0\26-contains-duplicate-II.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\bin\Debug\net8.0\26-contains-duplicate-II.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\refint\26-contains-duplicate-II.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\26-contains-duplicate-II.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\26-contains-duplicate-II\obj\Debug\net8.0\ref\26-contains-duplicate-II.dll
