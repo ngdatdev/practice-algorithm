@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\bin\Debug\net8.0\25-merge-two-list.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\bin\Debug\net8.0\25-merge-two-list.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\bin\Debug\net8.0\25-merge-two-list.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\bin\Debug\net8.0\25-merge-two-list.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\bin\Debug\net8.0\25-merge-two-list.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\refint\25-merge-two-list.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\25-merge-two-list.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\25-merge-two-list\obj\Debug\net8.0\ref\25-merge-two-list.dll

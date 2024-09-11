@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("25-merge-two-list")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e6bcb861b90881c7e65f84301597fea7499e9b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bc9c42de397a71f9b992854b2a0bfe56475064b")]
 [assembly: System.Reflection.AssemblyProductAttribute("25-merge-two-list")]
 [assembly: System.Reflection.AssemblyTitleAttribute("25-merge-two-list")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
