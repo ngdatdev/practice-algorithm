@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\bin\Debug\net8.0\29-longest-consequenive.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\bin\Debug\net8.0\29-longest-consequenive.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\bin\Debug\net8.0\29-longest-consequenive.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\bin\Debug\net8.0\29-longest-consequenive.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\bin\Debug\net8.0\29-longest-consequenive.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\refint\29-longest-consequenive.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\29-longest-consequenive.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\29-longest-consequenive\obj\Debug\net8.0\ref\29-longest-consequenive.dll
