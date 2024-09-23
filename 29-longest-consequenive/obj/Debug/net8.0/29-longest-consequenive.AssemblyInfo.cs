@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("29-longest-consequenive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8764ca16b46aafc14424d93a331cf0b527ff82e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31a8d0871446455bf4aa5fe7f6f20f7c0d8b8cf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("29-longest-consequenive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("29-longest-consequenive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

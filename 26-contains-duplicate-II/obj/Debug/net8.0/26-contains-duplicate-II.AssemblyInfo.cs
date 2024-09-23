@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("26-contains-duplicate-II")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bc9c42de397a71f9b992854b2a0bfe56475064b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5202cc7e98a5cab681af9e3ce89f5271b7e2676")]
 [assembly: System.Reflection.AssemblyProductAttribute("26-contains-duplicate-II")]
 [assembly: System.Reflection.AssemblyTitleAttribute("26-contains-duplicate-II")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\bin\Debug\net8.0\30-sumary-ranges.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\bin\Debug\net8.0\30-sumary-ranges.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\bin\Debug\net8.0\30-sumary-ranges.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\bin\Debug\net8.0\30-sumary-ranges.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\bin\Debug\net8.0\30-sumary-ranges.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\refint\30-sumary-ranges.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\30-sumary-ranges.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\30-sumary-ranges\obj\Debug\net8.0\ref\30-sumary-ranges.dll
