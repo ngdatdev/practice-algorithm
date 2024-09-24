@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("30-sumary-ranges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31a8d0871446455bf4aa5fe7f6f20f7c0d8b8cf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0c874c5d465eeb5024ab72c298b0abc4c25f286")]
 [assembly: System.Reflection.AssemblyProductAttribute("30-sumary-ranges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("30-sumary-ranges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
