@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\bin\Debug\net8.0\32-jump-game.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\bin\Debug\net8.0\32-jump-game.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\bin\Debug\net8.0\32-jump-game.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\bin\Debug\net8.0\32-jump-game.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\bin\Debug\net8.0\32-jump-game.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\refint\32-jump-game.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\32-jump-game.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\32-jump-game\obj\Debug\net8.0\ref\32-jump-game.dll
