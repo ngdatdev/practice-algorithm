@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\bin\Debug\net8.0\34-add-sums.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\bin\Debug\net8.0\34-add-sums.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\bin\Debug\net8.0\34-add-sums.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\bin\Debug\net8.0\34-add-sums.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\bin\Debug\net8.0\34-add-sums.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\refint\34-add-sums.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\34-add-sums.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\34-add-sums\obj\Debug\net8.0\ref\34-add-sums.dll
