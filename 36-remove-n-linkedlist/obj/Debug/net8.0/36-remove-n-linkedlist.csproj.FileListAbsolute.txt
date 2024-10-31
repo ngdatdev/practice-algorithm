@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\bin\Debug\net8.0\36-remove-n-linkedlist.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\bin\Debug\net8.0\36-remove-n-linkedlist.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\bin\Debug\net8.0\36-remove-n-linkedlist.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\bin\Debug\net8.0\36-remove-n-linkedlist.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\bin\Debug\net8.0\36-remove-n-linkedlist.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\refint\36-remove-n-linkedlist.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\36-remove-n-linkedlist.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\36-remove-n-linkedlist\obj\Debug\net8.0\ref\36-remove-n-linkedlist.dll
