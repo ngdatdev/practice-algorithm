@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\bin\Debug\net8.0\37-remove-duplicated.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\bin\Debug\net8.0\37-remove-duplicated.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\bin\Debug\net8.0\37-remove-duplicated.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\bin\Debug\net8.0\37-remove-duplicated.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\bin\Debug\net8.0\37-remove-duplicated.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\refint\37-remove-duplicated.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\37-remove-duplicated.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\37-remove-duplicated\obj\Debug\net8.0\ref\37-remove-duplicated.dll
