@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\bin\Debug\net8.0\38-rotate-right.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\bin\Debug\net8.0\38-rotate-right.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\bin\Debug\net8.0\38-rotate-right.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\bin\Debug\net8.0\38-rotate-right.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\bin\Debug\net8.0\38-rotate-right.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\refint\38-rotate-right.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\38-rotate-right.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\38-rotate-right\obj\Debug\net8.0\ref\38-rotate-right.dll

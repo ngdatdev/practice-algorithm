@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "38-rotate-right/1.0.0": {
+        "runtime": {
+          "38-rotate-right.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "38-rotate-right/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
