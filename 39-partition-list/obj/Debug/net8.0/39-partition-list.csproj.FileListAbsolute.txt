@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\bin\Debug\net8.0\39-partition-list.exe
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\bin\Debug\net8.0\39-partition-list.deps.json
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\bin\Debug\net8.0\39-partition-list.runtimeconfig.json
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\bin\Debug\net8.0\39-partition-list.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\bin\Debug\net8.0\39-partition-list.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.AssemblyInfo.cs
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.sourcelink.json
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\refint\39-partition-list.dll
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.pdb
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\39-partition-list.genruntimeconfig.cache
+C:\Users\admin\Documents\App Record\practice-algorithm\39-partition-list\obj\Debug\net8.0\ref\39-partition-list.dll
